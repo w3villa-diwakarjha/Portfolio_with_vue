@@ -20,7 +20,7 @@
 <script>
 import coursesCard from "./coursesCard.vue";
 export default {
-  name: "Courses",
+  name: "CoursesPage",
   components: {
     coursesCard,
   },
